@@ -4,7 +4,7 @@ Repository contains code for the results described in the paper:
 Berezutskaya, J., Freudenburg, Z. V., Ambrogioni, L., Güçlü, U., van Gerven, M. A., & Ramsey, N. F. (2020). [Cortical network responses map onto data-driven features that capture visual semantics of movie fragments](https://www.nature.com/articles/s41598-020-68853-y). Scientific reports, 10(1), 1-21.
 
 
-# Content
+### Content
 The repository contains code for
 
 - extraction of the visual concepts using [Clarifai](https://www.clarifai.com/)
@@ -14,7 +14,7 @@ The repository contains code for
 - affinity propagation clustering of the beta-weights of the regression for intepretation of the neural tuning profiles
 - control linear models using low-level visual feature sets and binary labels of the visual concepts 
 
-# Dependencies
+### Dependencies
 - [Scikit-learn](https://scikit-learn.org/)
 - [Numpy](https://numpy.org/)
 - [Scipy](https://www.scipy.org/)
@@ -23,7 +23,7 @@ The repository contains code for
 
 Originally written in Python 2.7, [Anaconda](https://www.anaconda.com/) release
 
-# Citation
+### Citation
 
 If this code has been helpful to you, please cite the related paper:
 
@@ -40,6 +40,6 @@ If this code has been helpful to you, please cite the related paper:
 }
 ```
 
-# Visual summary
+### Visual summary
 
 ![Alt text](/git_front.png?raw=true "Main results")
